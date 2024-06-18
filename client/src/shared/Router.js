@@ -1,9 +1,9 @@
 import React from 'react';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import GenerateProfile from '../Pages/GenerateProfile';
-import Generate from '../Components/Generate';
-import Persona from '../Components/Persona';
-import ChatModel from '../Components/ChatModel';
+import GenerateProfile from '../pages/GenerateProfile';
+import Generate from '../components/Generate';
+import Persona from '../components/Persona';
+import ChatModel from '../components/ChatModel';
 const Router = () => {
   return (
     <BrowserRouter>

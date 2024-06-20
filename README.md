@@ -6,6 +6,8 @@
 
 > Nvidia Generative AI Developer Contest | With Langchain 🤖
 
+[Chara Chat Linkedin POST ](https://www.linkedin.com/pulse/nvidia-gendev-contest-langchain-goomin-kwon-kvare/?trackingId=hiocqe%2FtQFm5qbYRXSAidA%3D%3D)
+
 ---
 
 # Tech Stack 🧑‍💻
